@@ -15,7 +15,7 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid - 
  
 * **Habilidades Técnicas:** [Python,C,SQL,HTML,CSS,].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:
  
 ---
  
