@@ -1,5 +1,5 @@
-# [Matheus Cardoso]
-> Estudante de [Ciência da Computação]
+# Matheus Cardoso
+> Estudante de Ciência da Computação
  
 ---
  
