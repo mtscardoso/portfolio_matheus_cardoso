@@ -44,7 +44,7 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid - 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./Projeto_Qryo/) |
+| **Engenharia Reversa** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura.| [Ver Projeto](./Projeto_Qryo/) |
  
 ---
  
