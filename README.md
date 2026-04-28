@@ -11,9 +11,9 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid - Universidade cidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - Segurança da Informação].
+Atualmente cursando o 2º período de Ciência da Computação na Unicid - Universidade cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Área de Interesse - Segurança da Informação.
  
-* **Habilidades Técnicas:** [Python,C,SQL,HTML,CSS,].
+* **Habilidades Técnicas:** Python,C,SQL,HTML,CSS.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
  
 ---
