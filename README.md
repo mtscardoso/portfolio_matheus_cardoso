@@ -45,6 +45,7 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid - 
 | :--- | :--- | :---: |
 | **Corrida do Prompt** | Atividade, com o objetivo de dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo possível. | [Ver Projeto](./Projeto_Corrida_do_Prompt/) |
 | **Laboratório de Classificação Visual** | Utilizando o navegador para acessar o Teachable Machine (Google) realizei um treinamento de um modelo de imagem simples | [Ver Projeto](./Projeto_Laboratorio_de_Classificacao_Visual/) |
+| **Batalha de Modelos** | Um estudo técnico comparativo que utiliza engenharia de prompt estruturado em XML para avaliar a precisão e a eficiência de diversos modelos de IA na geração de interfaces web. | [Ver Projeto](./Projeto_Laboratorio_Batalha_de_Modelos/) |
 | **Engenharia Reversa** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura.| [Ver Projeto](./Projeto_Qryo/) |
  
 ---
