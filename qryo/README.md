@@ -1,69 +1,37 @@
-# Qryo 🎨
-
-**Qryo** é uma ferramenta premium de personalização de QR Codes, focada em design, identidade visual e produtividade. Transforme códigos genéricos em peças de marca visualmente atraentes com uma interface neumórfica moderna e recursos avançados.
-
-![Qryo Preview](https://picsum.photos/seed/qryo/1200/600)
-
-## ✨ Recursos Principais
-
-- **🎨 Estilização Avançada:** Personalize padrões de pontos, formatos de cantos (eye frames e eyeballs), cores (sólidas ou gradientes) e adicione logotipos centrais.
-- **🌓 Design Neumórfico:** Interface polida com suporte total a **Dark Mode** e **Light Mode**, garantindo uma experiência visual premium.
-- **📂 Biblioteca de Presets:** Salve suas combinações de estilo favoritas localmente no navegador para reutilização instantânea.
-- **⚡ Geração em Massa (Batch Mode):** Insira uma lista de URLs e gere dezenas de QR Codes de uma só vez, baixando-os em um único arquivo `.ZIP`.
-- **🔐 Autenticação Firebase:** Login seguro via Google para personalização e persistência de perfil.
-- **⚙️ Remote Config:** Controle dinâmico de funcionalidades (como habilitar/desabilitar a geração em massa) diretamente pelo console do Firebase.
-- **🛡️ Privacidade em Primeiro Lugar:** Opção de "Modo Privacidade" que limpa os dados sensíveis após o download.
-
+# 🎬 Sistema de Recomendação de Filmes
+ 
+## 📝 Descrição do Projeto
+Este projeto consiste em um motor de recomendação inteligente que utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O objetivo principal é mitigar a "paralisia de escolha", oferecendo aos usuários sugestões personalizadas com base em seu histórico de visualização e preferências de gênero.
+ 
+Desenvolvido como parte da disciplina de **Inteligência Artificial (2024.1)**, o sistema processa grandes volumes de dados (datasets de filmes e avaliações) para identificar padrões de comportamento e similaridades entre títulos, utilizando algoritmos de aprendizado de máquina para prever a nota que um usuário daria a um filme ainda não assistido.
+ 
+http://googleusercontent.com/image_generation_content/0
+*Figura 1: Dashboard principal do sistema exibindo recomendações personalizadas.*
+ 
 ## 🚀 Tecnologias Utilizadas
-
-- **Frontend:** [React 19](https://react.dev/), [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/)
-- **Estilização:** [Tailwind CSS v4](https://tailwindcss.com/)
-- **Animações:** [Motion](https://motion.dev/) (framer-motion)
-- **Ícones:** [Lucide React](https://lucide.dev/)
-- **QR Core:** [qr-code-styling](https://www.npmjs.com/package/qr-code-styling)
-- **Backend/Infra:** [Firebase](https://firebase.google.com/) (Auth, Firestore, Remote Config)
-- **Utilidades:** [JSZip](https://stuk.github.io/jszip/) (para compressão de lotes)
-
-## 📦 Instalação e Execução
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/qryo.git
-   cd qryo
-   ```
-
-2. **Instale as dependências:**
-   ```bash
-   npm install
-   ```
-
-3. **Configure o Firebase:**
-   - Crie um projeto no [Firebase Console](https://console.firebase.google.com/).
-   - Adicione um App Web e copie as credenciais.
-   - Crie um arquivo `firebase-applet-config.json` na raiz com o seguinte formato:
-     ```json
-     {
-       "apiKey": "SUA_API_KEY",
-       "authDomain": "SEU_AUTH_DOMAIN",
-       "projectId": "SEU_PROJECT_ID",
-       "appId": "SEU_APP_ID",
-       "firestoreDatabaseId": "(default)"
-     }
-     ```
-
-4. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
-   ```
-   O app estará disponível em `http://localhost:3000`.
-
-## 🛠️ Estrutura do Projeto
-
-- `/src/components`: Componentes de UI (Layout, QR, UI Elements).
-- `/src/context`: Provedores de estado global (Auth, Theme, RemoteConfig).
-- `/src/hooks`: Lógica customizada para estilização de QR e gerenciamento de presets.
-- `/src/firebase.ts`: Configuração e inicialização dos serviços Firebase.
-- `firestore.rules`: Regras de segurança para o banco de dados.
+* **Linguagem:** Python 3.10
+* **Bibliotecas:** Pandas, Scikit-learn, Matplotlib
+* **Ferramentas:** Jupyter Notebook, Google Colab
+ 
+## 📊 Resultados e Aprendizados
+O projeto alcançou resultados sólidos em ambiente de teste, demonstrando a eficácia do modelo híbrido.
+* **O modelo atingiu 92% de acurácia** nos testes de validação.
+* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e normalização de dados para melhorar a performance dos algoritmos.
+* **Visualização de Clusters:** Implementei gráficos que mostram como o sistema agrupa filmes por afinidade.
+ 
+![Gráfico de Performance e Métricas](IMAGEM_2_AQUI)
+*Figura 2: Análise métrica do desempenho do modelo.*
+ 
+## 🔧 Como Executar
+1. Clone o repositório.
+2. Instale as dependências: `pip install -r requirements.txt`.
+3. Execute o comando: `python main.py`.
+ 
+![Demonstração do Fluxo de Dados](IMAGEM_3_AQUI)
+*Figura 3: Representação visual do pipeline de dados.*
+ 
+---
+[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
 
 ## 📄 Licença
 
