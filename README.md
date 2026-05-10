@@ -38,10 +38,6 @@ Atualmente cursando o 2º período de Ciência da Computação na Unicid - Unive
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
@@ -51,6 +47,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Unicid - Unive
 | **Laboratório de Classificação Visual** | Utilizando o navegador para acessar o Teachable Machine (Google) realizei um treinamento de um modelo de imagem simples | [Ver Projeto](./projeto-laboratório-de-classificação-visual/) |
 | **Engenharia Reversa** | Engenharia reversa de webapps: Reconstruindo sites funcionais através de análise de interface e IA. | [Ver Projeto](./projeto-qr-code-styling/) |
 | **Do Clone ao Produto Mínimo Viável (MVP+)** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura.| [Ver Projeto](./projeto-qryo) |
+| **Engenharia de Software e IA com Bubble.io** | Sistema web SaaS desenvolvido no Bubble.io para gerenciamento de clientes, criação de orçamentos e acompanhamento de propostas comerciais em tempo real.| [Ver Projeto](./projeto-bubbleio) |
 | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** |Criação de solução Android para RPG de mesa via Manus AI com comunicações Jitsi Meet.| [Ver Projeto](./projeto-rpg-meet-app) |
 
  
