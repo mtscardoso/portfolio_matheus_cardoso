@@ -19,7 +19,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Painted on My Memories | Nu Metal | [Arquivo MP3](./projeto-musica-ia/audio/painted-on-my-memories.mp3) |
+| 01 | Painted on My Memories | Nu Metal | [Arquivo MP3](./audio/painted-on-my-memories.mp3) |
 | 02 | The Architecture of Silence | Nu Metal | [Arquivo MP3](./projeto-musica-ia/audio/the-architecture-of-silence.mp3) |
 | 03 | The Clarity of the End | Nu Metal | [Arquivo MP3](./projeto-musica-ia/audio/the-clarity-of-the-end.mp3) |
 | 04 | The Ghost in the Mechanism | Nu Metal | [Arquivo MP3](./projeto-musica-ia/audio/the-ghost-in-the-mechanism.mp3) |
