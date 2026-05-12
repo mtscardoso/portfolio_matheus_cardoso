@@ -20,10 +20,10 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
 | 01 | Painted on My Memories | Nu Metal | [Arquivo MP3](./audio/painted-on-my-memories.mp3) |
-| 02 | The Architecture of Silence | Nu Metal | [Arquivo MP3](./projeto-musica-ia/audio/the-architecture-of-silence.mp3) |
-| 03 | The Clarity of the End | Nu Metal | [Arquivo MP3](./projeto-musica-ia/audio/the-clarity-of-the-end.mp3) |
-| 04 | The Ghost in the Mechanism | Nu Metal | [Arquivo MP3](./projeto-musica-ia/audio/the-ghost-in-the-mechanism.mp3) |
-| 05 | The Weight of the Static | Nu metal | [Arquivo MP3](./projeto-musica-ia/audio/the-weight-of-the-static.mp3) |
+| 02 | The Architecture of Silence | Nu Metal | [Arquivo MP3](./audio/the-architecture-of-silence.mp3) |
+| 03 | The Clarity of the End | Nu Metal | [Arquivo MP3](./audio/the-clarity-of-the-end.mp3) |
+| 04 | The Ghost in the Mechanism | Nu Metal | [Arquivo MP3](./audio/the-ghost-in-the-mechanism.mp3) |
+| 05 | The Weight of the Static | Nu metal | [Arquivo MP3](./audio/the-weight-of-the-static.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
