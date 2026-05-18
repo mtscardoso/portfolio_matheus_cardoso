@@ -1,3 +1,4 @@
+SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi
 # 🎭 RPG Meet - Videoconferência para TTRPGs
 
 ## 📝 Descrição do Projeto
