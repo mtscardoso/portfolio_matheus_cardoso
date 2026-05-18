@@ -1,3 +1,4 @@
+SM4 - Engenharia Reversa
 # 🎬 Gerador de QR Code Customizável
 
 ## 📝 Descrição do Projeto
