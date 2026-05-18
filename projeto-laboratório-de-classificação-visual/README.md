@@ -1,3 +1,4 @@
+SM2 - Laboratório de Classificação Visual
 # 👁️ Laboratório de Classificação Visual e Ética em IA
 
 ## 📝 Descrição do Projeto
